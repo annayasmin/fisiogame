@@ -10,7 +10,7 @@ Este projeto consiste em um jogo baseado no jogo de celular side-scrolling chama
 * Vá até a pasta na qual o repositório foi clonado e clique em Select Folder (Selecionar Pasta);
 * Assim que o projeto estiver carregado em sua IDE, vá na pasta Flappy Bird Styledê dois cliques na cena Main e aperte o Start;
 
-### Pré-requisitos
+## Pré-requisitos
 
 Para trabalhar com este projeto, você deve ter a IDE Unity3D instalada. Eu utilizei a versão 2017.4.0f1 da IDE.
 
